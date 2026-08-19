@@ -1,8 +1,379 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MacOS Homebrew Cask for Camunda Modeler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3623050,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T11:21:51Z",
+            "owner": "Homebrew",
+            "repo": "homebrew-cask",
+            "stars": 22168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BPMN to PNG/PDF",
+          "description": "Convert BPMN 2.0 diagrams to PDF documents or PNG files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130327374,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T07:34:56Z",
+            "owner": "bpmn-io",
+            "repo": "bpmn-to-image",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vPAV",
+          "description": "A tool that checks Camunda projects for consistency and discovers errors in process-driven applications, inconsistencies of a given BPMN model in the classpath and the sourcecode of an underlying java project, such as a delegate reference to a non-existing java class or a non-existing Spring bean.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 91471485,
+            "language": "Java",
+            "last_commit": "2023-09-06T11:46:53Z",
+            "owner": "viadee",
+            "repo": "vPAV",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DMN Check",
+          "description": "A Maven plugin which performs various static analyses on Decision Model Notation (DMN) files to detect bugs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106817657,
+            "language": "Java",
+            "last_commit": "2026-08-05T23:45:53Z",
+            "owner": "red6",
+            "repo": "dmn-check",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/plexiti/camunda-bpm-spock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24796707,
+            "language": "Groovy",
+            "last_commit": "2016-01-26T10:25:55Z",
+            "owner": "plexiti",
+            "repo": "camunda-bpm-spock",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/livetocode/camunda-prometheus-exporter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103985516,
+            "language": "Go",
+            "last_commit": "2022-03-01T22:50:17Z",
+            "owner": "livetocode",
+            "repo": "camunda-prometheus-exporter",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/StephenOTT/ProcessProjectTemplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92437429,
+            "language": null,
+            "last_commit": "2017-08-16T14:59:43Z",
+            "owner": "StephenOTT",
+            "repo": "ProcessProjectTemplate",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/DigitalState/Camunda-Spock-Testing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114910381,
+            "language": "Groovy",
+            "last_commit": "2018-08-07T20:23:24Z",
+            "owner": "DigitalState",
+            "repo": "Camunda-Spock-Testing",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/camunda-consulting/camunda-util-demo-data-generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77599607,
+            "language": "Java",
+            "last_commit": "2018-11-02T18:28:02Z",
+            "owner": "camunda-consulting",
+            "repo": "camunda-util-demo-data-generator",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/StephenOTT/vertx-bpmn-model-doc-generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126062039,
+            "language": "JavaScript",
+            "last_commit": "2018-03-20T22:23:09Z",
+            "owner": "StephenOTT",
+            "repo": "vertx-bpmn-model-doc-generator",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Tools and libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/camunda/camunda-bpm-graphql",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84191459,
+            "language": "Java",
+            "last_commit": "2024-10-03T18:44:19Z",
+            "owner": "camunda-community-hub",
+            "repo": "camunda-platform-7-graphql",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Loydl/camunda-graphql-tasklist",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87426458,
+            "language": "JavaScript",
+            "last_commit": "2026-01-10T01:18:55Z",
+            "owner": "Loydl",
+            "repo": "camunda-graphql-tasklist",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Loydl/camunda-graphql-client-example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84303446,
+            "language": "JavaScript",
+            "last_commit": "2026-01-10T03:21:23Z",
+            "owner": "Loydl",
+            "repo": "camunda-graphql-client-example",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Loydl/camunda-graphql-client-example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84303446,
+            "language": "JavaScript",
+            "last_commit": "2026-01-10T03:21:23Z",
+            "owner": "Loydl",
+            "repo": "camunda-graphql-client-example",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "GraphQL"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/camunda/camunda-modeler-plugins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86327897,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T09:45:06Z",
+            "owner": "camunda",
+            "repo": "camunda-modeler-plugins",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/umb/camunda-modeler-property-info-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96254920,
+            "language": "JavaScript",
+            "last_commit": "2023-11-03T10:29:34Z",
+            "owner": "mesoneer-ag",
+            "repo": "camunda-modeler-property-info-plugin",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/StephenOTT/camunda-vertx-springboot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128100641,
+            "language": "JavaScript",
+            "last_commit": "2018-04-13T19:55:35Z",
+            "owner": "StephenOTT",
+            "repo": "camunda-vertx-springboot",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Camunda Modeler Plugins"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Custom Batch",
+          "description": "A plugin to provide a simple way of using the Camunda Batch functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 87056179,
+            "language": "Java",
+            "last_commit": "2026-01-09T11:08:35Z",
+            "owner": "camunda-community-hub",
+            "repo": "camunda-platform-7-custom-batch",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/DigitalState/camunda-administrative-user-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123343058,
+            "language": "Java",
+            "last_commit": "2018-03-02T16:06:38Z",
+            "owner": "DigitalState",
+            "repo": "camunda-administrative-user-plugin",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Form JS Validation https://github.com/StephenOTT/camunda-form-validator-js-server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129300502,
+            "language": "JavaScript",
+            "last_commit": "2018-05-17T18:22:10Z",
+            "owner": "StephenOTT",
+            "repo": "camunda-form-validator-js-server",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vertx https://github.com/StephenOTT/camunda-vertx-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 132165081,
+            "language": "Java",
+            "last_commit": "2018-05-25T17:41:36Z",
+            "owner": "StephenOTT",
+            "repo": "camunda-vertx-plugin",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/StephenOTT/camunda-incident-handler-nashorn-js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131543461,
+            "language": "Java",
+            "last_commit": "2018-04-30T15:56:16Z",
+            "owner": "StephenOTT",
+            "repo": "camunda-incident-handler-nashorn-js",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JWT Provider: https://github.com/Loydl/camunda-jwt-provider",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94546407,
+            "language": "Java",
+            "last_commit": "2025-08-17T09:01:16Z",
+            "owner": "Loydl",
+            "repo": "camunda-jwt-provider",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "BPM Engine Plugins"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-18T16:53:22.208Z",
+    "last_updated": "2026-08-19T12:21:19.369Z",
     "original_repository": "DigitalState/awesome-camunda",
+    "original_repository_id": 143179144,
     "original_repository_sha": "a5d7e393a9a80f198e0ca27743a3a03aa403384d",
     "enhanced_repository": "enhansome/enhansome-camunda",
     "enhanced_repository_description": null,
