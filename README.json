@@ -12,7 +12,7 @@
             "archived": false,
             "id": 3623050,
             "language": "Ruby",
-            "last_commit": "2026-08-21T16:56:07Z",
+            "last_commit": "2026-08-22T16:43:16Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
             "stars": 22172
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:56:27.696Z",
+    "last_updated": "2026-08-22T16:44:49.854Z",
     "original_repository": "DigitalState/awesome-camunda",
     "original_repository_id": 143179144,
     "original_repository_sha": "a5d7e393a9a80f198e0ca27743a3a03aa403384d",
