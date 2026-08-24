@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3623050,
             "language": "Ruby",
-            "last_commit": "2026-08-23T16:46:14Z",
+            "last_commit": "2026-08-24T14:40:09Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22172
+            "stars": 22171
           }
         },
         {
@@ -155,6 +155,55 @@
         }
       ],
       "title": "Tools and libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/camunda/camunda-bpm-platform/tree/master/qa/performance-tests-engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 7420937,
+            "language": "Java",
+            "last_commit": "2025-11-04T07:40:27Z",
+            "owner": "camunda",
+            "repo": "camunda-bpm-platform",
+            "stars": 4270
+          }
+        }
+      ],
+      "title": "Load Testing / Performance Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Variable Encryption: https://github.com/StephenOTT/camunda-data-encryption-rsa",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126874716,
+                "language": "JavaScript",
+                "last_commit": "2018-05-16T17:06:11Z",
+                "owner": "StephenOTT",
+                "repo": "camunda-data-encryption-rsa",
+                "stars": 7
+              }
+            }
+          ],
+          "description": ":exclamation: Helpful Scripting Snippets",
+          "node_type": "group",
+          "title": "Scripting"
+        }
+      ],
+      "title": "Notable forum.camunda.org Threads and Posts"
     },
     {
       "description": null,
@@ -371,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:46:57.531Z",
+    "last_updated": "2026-08-24T14:40:54.674Z",
     "original_repository": "DigitalState/awesome-camunda",
     "original_repository_id": 143179144,
     "original_repository_sha": "a5d7e393a9a80f198e0ca27743a3a03aa403384d",
