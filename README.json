@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3623050,
             "language": "Ruby",
-            "last_commit": "2026-08-24T16:59:06Z",
+            "last_commit": "2026-08-25T06:26:38Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22171
+            "stars": 22172
           }
         },
         {
@@ -65,7 +65,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/plexiti/camunda-bpm-spock",
+          "title": "plexiti/camunda-bpm-spock",
           "description": null,
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/livetocode/camunda-prometheus-exporter",
+          "title": "livetocode/camunda-prometheus-exporter",
           "description": null,
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/StephenOTT/ProcessProjectTemplate",
+          "title": "StephenOTT/ProcessProjectTemplate",
           "description": null,
           "children": [],
           "repo_info": {
@@ -110,7 +110,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/DigitalState/Camunda-Spock-Testing",
+          "title": "DigitalState/Camunda-Spock-Testing",
           "description": null,
           "children": [],
           "repo_info": {
@@ -125,7 +125,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/camunda-consulting/camunda-util-demo-data-generator",
+          "title": "camunda-consulting/camunda-util-demo-data-generator",
           "description": null,
           "children": [],
           "repo_info": {
@@ -140,7 +140,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/StephenOTT/vertx-bpmn-model-doc-generator",
+          "title": "StephenOTT/vertx-bpmn-model-doc-generator",
           "description": null,
           "children": [],
           "repo_info": {
@@ -161,7 +161,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/camunda/camunda-bpm-platform/tree/master/qa/performance-tests-engine",
+          "title": "camunda/camunda-bpm-platform",
           "description": null,
           "children": [],
           "repo_info": {
@@ -210,7 +210,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/camunda/camunda-bpm-graphql",
+          "title": "camunda-community-hub/camunda-platform-7-graphql",
           "description": null,
           "children": [],
           "repo_info": {
@@ -225,7 +225,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Loydl/camunda-graphql-tasklist",
+          "title": "Loydl/camunda-graphql-tasklist",
           "description": null,
           "children": [],
           "repo_info": {
@@ -240,7 +240,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Loydl/camunda-graphql-client-example",
+          "title": "Loydl/camunda-graphql-client-example",
           "description": null,
           "children": [],
           "repo_info": {
@@ -255,7 +255,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Loydl/camunda-graphql-client-example",
+          "title": "Loydl/camunda-graphql-client-example",
           "description": null,
           "children": [],
           "repo_info": {
@@ -276,7 +276,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/camunda/camunda-modeler-plugins",
+          "title": "camunda/camunda-modeler-plugins",
           "description": null,
           "children": [],
           "repo_info": {
@@ -291,7 +291,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/umb/camunda-modeler-property-info-plugin",
+          "title": "mesoneer-ag/camunda-modeler-property-info-plugin",
           "description": null,
           "children": [],
           "repo_info": {
@@ -306,7 +306,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/StephenOTT/camunda-vertx-springboot",
+          "title": "StephenOTT/camunda-vertx-springboot",
           "description": null,
           "children": [],
           "repo_info": {
@@ -342,7 +342,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/DigitalState/camunda-administrative-user-plugin",
+          "title": "DigitalState/camunda-administrative-user-plugin",
           "description": null,
           "children": [],
           "repo_info": {
@@ -387,7 +387,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/StephenOTT/camunda-incident-handler-nashorn-js",
+          "title": "StephenOTT/camunda-incident-handler-nashorn-js",
           "description": null,
           "children": [],
           "repo_info": {
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:00:15.486Z",
+    "last_updated": "2026-08-25T06:35:16.028Z",
     "original_repository": "DigitalState/awesome-camunda",
     "original_repository_id": 143179144,
     "original_repository_sha": "a5d7e393a9a80f198e0ca27743a3a03aa403384d",
