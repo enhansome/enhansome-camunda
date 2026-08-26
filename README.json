@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3623050,
             "language": "Ruby",
-            "last_commit": "2026-08-25T16:58:09Z",
+            "last_commit": "2026-08-26T17:47:00Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22174
+            "stars": 22176
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 130327374,
             "language": "JavaScript",
-            "last_commit": "2026-08-04T07:34:56Z",
+            "last_commit": "2026-08-26T13:12:15Z",
             "owner": "bpmn-io",
             "repo": "bpmn-to-image",
             "stars": 76
@@ -283,7 +283,7 @@
             "archived": false,
             "id": 86327897,
             "language": "JavaScript",
-            "last_commit": "2026-08-06T09:45:06Z",
+            "last_commit": "2026-08-26T13:15:06Z",
             "owner": "camunda",
             "repo": "camunda-modeler-plugins",
             "stars": 184
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:00:58.806Z",
+    "last_updated": "2026-08-26T18:08:17.525Z",
     "original_repository": "DigitalState/awesome-camunda",
     "original_repository_id": 143179144,
     "original_repository_sha": "a5d7e393a9a80f198e0ca27743a3a03aa403384d",
