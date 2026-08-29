@@ -12,11 +12,12 @@
             "archived": false,
             "id": 3623050,
             "language": "Ruby",
-            "last_commit": "2026-08-27T23:42:51Z",
+            "last_commit": "2026-08-29T00:08:41Z",
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22176
-          }
+            "stars": 22177
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 130327374,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T13:12:15Z",
+            "last_commit": "2026-08-28T12:16:07Z",
             "owner": "bpmn-io",
             "repo": "bpmn-to-image",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "viadee",
             "repo": "vPAV",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "red6",
             "repo": "dmn-check",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "plexiti",
             "repo": "camunda-bpm-spock",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "livetocode",
             "repo": "camunda-prometheus-exporter",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "StephenOTT",
             "repo": "ProcessProjectTemplate",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "DigitalState",
             "repo": "Camunda-Spock-Testing",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "camunda-consulting",
             "repo": "camunda-util-demo-data-generator",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "StephenOTT",
             "repo": "vertx-bpmn-model-doc-generator",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         }
       ],
       "title": "Tools and libraries"
@@ -172,7 +182,8 @@
             "owner": "camunda",
             "repo": "camunda-bpm-platform",
             "stars": 4270
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         }
       ],
       "title": "Load Testing / Performance Testing"
@@ -195,7 +206,8 @@
                 "owner": "StephenOTT",
                 "repo": "camunda-data-encryption-rsa",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:35:32.690Z"
             }
           ],
           "description": ":exclamation: Helpful Scripting Snippets",
@@ -221,7 +233,8 @@
             "owner": "camunda-community-hub",
             "repo": "camunda-platform-7-graphql",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -236,7 +249,8 @@
             "owner": "Loydl",
             "repo": "camunda-graphql-tasklist",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -251,7 +265,8 @@
             "owner": "Loydl",
             "repo": "camunda-graphql-client-example",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -266,7 +281,8 @@
             "owner": "Loydl",
             "repo": "camunda-graphql-client-example",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         }
       ],
       "title": "GraphQL"
@@ -283,11 +299,12 @@
             "archived": false,
             "id": 86327897,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T13:15:06Z",
+            "last_commit": "2026-08-28T09:47:43Z",
             "owner": "camunda",
             "repo": "camunda-modeler-plugins",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -302,7 +319,8 @@
             "owner": "mesoneer-ag",
             "repo": "camunda-modeler-property-info-plugin",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -317,7 +335,8 @@
             "owner": "StephenOTT",
             "repo": "camunda-vertx-springboot",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         }
       ],
       "title": "Camunda Modeler Plugins"
@@ -338,7 +357,8 @@
             "owner": "camunda-community-hub",
             "repo": "camunda-platform-7-custom-batch",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -353,7 +373,8 @@
             "owner": "DigitalState",
             "repo": "camunda-administrative-user-plugin",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -368,7 +389,8 @@
             "owner": "StephenOTT",
             "repo": "camunda-form-validator-js-server",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -383,7 +405,8 @@
             "owner": "StephenOTT",
             "repo": "camunda-vertx-plugin",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -398,7 +421,8 @@
             "owner": "StephenOTT",
             "repo": "camunda-incident-handler-nashorn-js",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         },
         {
           "node_type": "item",
@@ -413,14 +437,15 @@
             "owner": "Loydl",
             "repo": "camunda-jwt-provider",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.690Z"
         }
       ],
       "title": "BPM Engine Plugins"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:59:50.582Z",
+    "last_updated": "2026-08-29T00:35:32.690Z",
     "original_repository_info": {
       "archived": false,
       "id": 143179144,
