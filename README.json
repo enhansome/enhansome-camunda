@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
+            "homepage": "https://brew.sh",
             "id": 3623050,
             "language": "Ruby",
-            "last_commit": "2026-08-29T00:08:41Z",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-08-29T04:56:06Z",
+            "open_issues": 23,
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22177
+            "stars": 22176,
+            "topics": [
+              "cask",
+              "hacktoberfest",
+              "homebrew"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -26,12 +35,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert BPMN 2.0 diagrams to PDF documents or PNG files.",
+            "homepage": null,
             "id": 130327374,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-28T12:16:07Z",
+            "open_issues": 5,
             "owner": "bpmn-io",
             "repo": "bpmn-to-image",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "bpmn",
+              "bpmn-to-image"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -42,12 +59,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "viadee Process Application Validator",
+            "homepage": "https://www.viadee.de/java/process-application-validator",
             "id": 91471485,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-09-06T11:46:53Z",
+            "open_issues": 38,
             "owner": "viadee",
             "repo": "vPAV",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "bpmn",
+              "continuous-integration",
+              "java",
+              "spring",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -58,12 +87,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool which performs static analyses on Decision Model Notation (DMN) files to detect bugs",
+            "homepage": "https://red6.github.io/dmn-check/javadoc/",
             "id": 106817657,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T23:45:53Z",
+            "open_issues": 22,
             "owner": "red6",
             "repo": "dmn-check",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "camunda",
+              "camunda-modeler-plugin",
+              "code-quality",
+              "decision-model-notation",
+              "dmn",
+              "gradle-plugin",
+              "java",
+              "maven",
+              "maven-plugin",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -74,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evaluation of Spock Test Framework for Camunda BPM - a new Community Extension in the makings?",
+            "homepage": null,
             "id": 24796707,
             "language": "Groovy",
+            "license": null,
             "last_commit": "2016-01-26T10:25:55Z",
+            "open_issues": 1,
             "owner": "plexiti",
             "repo": "camunda-bpm-spock",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -90,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Prometheus exporter for Camunda metrics",
+            "homepage": null,
             "id": 103985516,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-03-01T22:50:17Z",
+            "open_issues": 1,
             "owner": "livetocode",
             "repo": "camunda-prometheus-exporter",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -106,12 +161,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template project for Process (BPMN, CMMN, DMN) / Camunda Projects",
+            "homepage": null,
             "id": 92437429,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2017-08-16T14:59:43Z",
+            "open_issues": 2,
             "owner": "StephenOTT",
             "repo": "ProcessProjectTemplate",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "bpmn",
+              "camunda",
+              "cmmn",
+              "dmn",
+              "projecttemplate"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -122,12 +188,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spock Framework Specification Testing / Unit Testing for Camunda BPM Engine/Processes",
+            "homepage": "https://forum.camunda.org/t/unit-testing-using-spock-framework-for-cucumber-style-testing-shared-engine-unit-testing-dmn-bpmn/5635?u=stephenott",
             "id": 114910381,
             "language": "Groovy",
+            "license": "MIT",
             "last_commit": "2018-08-07T20:23:24Z",
+            "open_issues": 15,
             "owner": "DigitalState",
             "repo": "Camunda-Spock-Testing",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "camunda",
+              "groovy",
+              "spock-framework",
+              "spock-tests",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -138,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 77599607,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-11-02T18:28:02Z",
+            "open_issues": 2,
             "owner": "camunda-consulting",
             "repo": "camunda-util-demo-data-generator",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -154,12 +236,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate rendered FreeMarker templates based on Camunda BPM Model API usage of BPMN files.  Great for generating business process documentation based on a .bpmn file",
+            "homepage": null,
             "id": 126062039,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-20T22:23:09Z",
+            "open_issues": 0,
             "owner": "StephenOTT",
             "repo": "vertx-bpmn-model-doc-generator",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "bpmn",
+              "camunda",
+              "vertx",
+              "vertx-lang-js"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         }
@@ -176,12 +268,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Camunda 7 CE is End of Life (EoL). Please check out Camunda 8 instead (https://github.com/camunda/camunda) or read about Camunda 7 Enterprise End of Life (https://camunda.com/blog/2025/02/camunda-7-enterprise-end-of-life-extension/) – Camunda 7 CE was a flexible framework for workflow and decision automation using BPMN and DMN.",
+            "homepage": "https://camunda.com/",
             "id": 7420937,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-04T07:40:27Z",
+            "open_issues": 0,
             "owner": "camunda",
             "repo": "camunda-bpm-platform",
-            "stars": 4270
+            "stars": 4270,
+            "topics": [
+              "bpm",
+              "bpmn",
+              "camunda-bpm-platform",
+              "camunda-engine",
+              "cmmn",
+              "dmn",
+              "end-of-life",
+              "eol",
+              "java",
+              "process-engine",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         }
@@ -200,12 +309,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Camunda BPM Process Variable RSA encryption and Signed Object with SHA256 and RSA, using Nashorn Javascript",
+                "homepage": null,
                 "id": 126874716,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-05-16T17:06:11Z",
+                "open_issues": 0,
                 "owner": "StephenOTT",
                 "repo": "camunda-data-encryption-rsa",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "camunda",
+                  "crypto",
+                  "javascript",
+                  "nashorn",
+                  "rsa"
+                ]
               },
               "first_seen": "2026-08-29T00:35:32.690Z"
             }
@@ -227,12 +347,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GraphQL for Camunda Platform 7",
+            "homepage": null,
             "id": 84191459,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-03T18:44:19Z",
+            "open_issues": 10,
             "owner": "camunda-community-hub",
             "repo": "camunda-platform-7-graphql",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "camunda-7",
+              "camunda-platform-7",
+              "graphql",
+              "graphql-java",
+              "graphql-server",
+              "java",
+              "spring-boot",
+              "springframework"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -243,12 +377,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 87426458,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-10T01:18:55Z",
+            "open_issues": 11,
             "owner": "Loydl",
             "repo": "camunda-graphql-tasklist",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "camunda",
+              "graphql",
+              "graphql-client",
+              "javascript",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -259,12 +404,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic client example to connect to https://github.com/Loydl/camunda-graphql",
+            "homepage": null,
             "id": 84303446,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-10T03:21:23Z",
+            "open_issues": 7,
             "owner": "Loydl",
             "repo": "camunda-graphql-client-example",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "apollo-client",
+              "camunda",
+              "camunda-bpm-platform",
+              "graphql",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -275,12 +431,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic client example to connect to https://github.com/Loydl/camunda-graphql",
+            "homepage": null,
             "id": 84303446,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-10T03:21:23Z",
+            "open_issues": 7,
             "owner": "Loydl",
             "repo": "camunda-graphql-client-example",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "apollo-client",
+              "camunda",
+              "camunda-bpm-platform",
+              "graphql",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         }
@@ -297,12 +464,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugins for the Camunda Modeler",
+            "homepage": null,
             "id": 86327897,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-28T09:47:43Z",
+            "open_issues": 3,
             "owner": "camunda",
             "repo": "camunda-modeler-plugins",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "bpmn",
+              "camunda",
+              "cmmn",
+              "dmn",
+              "modeler",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -313,12 +492,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This plugin serves a better overview which properties are set per shape.",
+            "homepage": null,
             "id": 96254920,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-03T10:29:34Z",
+            "open_issues": 4,
             "owner": "mesoneer-ag",
             "repo": "camunda-modeler-property-info-plugin",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "bpmn",
+              "camunda",
+              "camunda-modeler",
+              "modeling-tool",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -329,12 +519,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Camunda BPM with SpringBoot and Vertx support: Add Camunda REST, TCP, etc APIs with Vertx's Polyglot capabilities: Javascript, Ruby, Kotlin, Scala, Java, etc",
+            "homepage": "https://forum.camunda.org/t/custom-api-endpoints-spring-boot-vertx-polyglot/6788?u=stephenott",
             "id": 128100641,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-04-13T19:55:35Z",
+            "open_issues": 0,
             "owner": "StephenOTT",
             "repo": "camunda-vertx-springboot",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "bpm-engine",
+              "camunda",
+              "camunda-springboot",
+              "javascript",
+              "nashorn",
+              "polyglot",
+              "springboot",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         }
@@ -351,12 +555,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "using the camunda batch execution for custom batch runs",
+            "homepage": "http://www.holunda.io/c7/",
             "id": 87056179,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-09T11:08:35Z",
+            "open_issues": 0,
             "owner": "camunda-community-hub",
             "repo": "camunda-platform-7-custom-batch",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "batch",
+              "camunda",
+              "camunda-7"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -367,12 +580,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Camunda BPM Engine plugin that generates a administrative user on engine start.",
+            "homepage": null,
             "id": 123343058,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-03-02T16:06:38Z",
+            "open_issues": 0,
             "owner": "DigitalState",
             "repo": "camunda-administrative-user-plugin",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "camunda"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -383,12 +603,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Camunda BPM Form Validator plugin, enabling support for Javascript validation of Form Submissions for Start Events and User Tasks",
+            "homepage": null,
             "id": 129300502,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-05-17T18:22:10Z",
+            "open_issues": 0,
             "owner": "StephenOTT",
             "repo": "camunda-form-validator-js-server",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "camunda",
+              "forms",
+              "javacript",
+              "javascript-validation"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -399,12 +629,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Camunda BPM Process Engine Plugin that creates a Vertx Instance and supports verticle deployment through YAML",
+            "homepage": null,
             "id": 132165081,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-05-25T17:41:36Z",
+            "open_issues": 4,
             "owner": "StephenOTT",
             "repo": "camunda-vertx-plugin",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "bpmn",
+              "camunda",
+              "camunda-plugin",
+              "docker",
+              "javascript",
+              "nashorn",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -415,12 +658,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Camunda BPM Process Engine Plugin that provides a generic incident handler implementation that executes Javascript",
+            "homepage": null,
             "id": 131543461,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-04-30T15:56:16Z",
+            "open_issues": 1,
             "owner": "StephenOTT",
             "repo": "camunda-incident-handler-nashorn-js",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "bpm",
+              "camunda",
+              "javascript",
+              "nashorn"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         },
@@ -431,12 +684,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JWT provider to be used for Camunda BPM",
+            "homepage": null,
             "id": 94546407,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-08-17T09:01:16Z",
+            "open_issues": 25,
             "owner": "Loydl",
             "repo": "camunda-jwt-provider",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "camunda",
+              "camunda-bpm-platform",
+              "jwt",
+              "jwt-authentication",
+              "jwt-server"
+            ]
           },
           "first_seen": "2026-08-29T00:35:32.690Z"
         }
@@ -445,15 +709,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:35:32.690Z",
+    "last_updated": "2026-08-29T05:00:38.695Z",
     "original_repository_info": {
       "archived": false,
+      "description": "a curated list of awesome Camunda BPM projects, libraries, tools, documentations, forum posts, etc.",
+      "homepage": null,
       "id": 143179144,
       "language": null,
+      "license": "MIT",
       "last_commit": "2020-02-24T20:19:08Z",
+      "open_issues": 0,
       "owner": "DigitalState",
       "repo": "awesome-camunda",
-      "stars": 104
+      "stars": 104,
+      "topics": [
+        "awesome-list",
+        "bpm",
+        "bpmn",
+        "camunda",
+        "cmmn",
+        "dmn"
+      ]
     },
     "original_repository_sha": "a5d7e393a9a80f198e0ca27743a3a03aa403384d",
     "enhanced_repository": "enhansome/enhansome-camunda",
