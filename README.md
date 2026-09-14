@@ -17,10 +17,10 @@ A curated list of awesome Camunda BPM projects, libraries, tools, documentation,
 
 # Tools and libraries
 
-1. [MacOS Homebrew Cask for Camunda Modeler](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/camunda-modeler.rb) ⭐ 22,201 | 🐛 31 | 🌐 Ruby | 📅 2026-09-13 - `brew install camunda-modeler`
+1. [MacOS Homebrew Cask for Camunda Modeler](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/camunda-modeler.rb) ⭐ 22,211 | 🐛 28 | 🌐 Ruby | 📅 2026-09-14 - `brew install camunda-modeler`
 2. [BPMN to PNG/PDF](https://github.com/bpmn-io/bpmn-to-image) ⭐ 76 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-10 - Convert BPMN 2.0 diagrams to PDF documents or PNG files.
 3. [vPAV](https://github.com/viadee/vPAV) ⚠️ Archived - A tool that checks Camunda projects for consistency and discovers errors in process-driven applications, inconsistencies of a given BPMN model in the classpath and the sourcecode of an underlying java project, such as a delegate reference to a non-existing java class or a non-existing Spring bean.
-4. [DMN Check](https://github.com/red6/dmn-check) ⭐ 44 | 🐛 28 | 🌐 Java | 📅 2026-09-10 - A Maven plugin which performs various static analyses on Decision Model Notation (DMN) files to detect bugs.
+4. [DMN Check](https://github.com/red6/dmn-check) ⭐ 44 | 🐛 14 | 🌐 Java | 📅 2026-09-14 - A Maven plugin which performs various static analyses on Decision Model Notation (DMN) files to detect bugs.
 5. <https://github.com/plexiti/camunda-bpm-spock> ⭐ 17 | 🐛 1 | 🌐 Groovy | 📅 2016-01-26
 6. <https://github.com/livetocode/camunda-prometheus-exporter> ⭐ 12 | 🐛 1 | 🌐 Go | 📅 2022-03-01
 7. <https://github.com/StephenOTT/ProcessProjectTemplate> ⭐ 10 | 🐛 2 | 📅 2017-08-16
@@ -74,7 +74,7 @@ A curated list of awesome Camunda BPM projects, libraries, tools, documentation,
 
 # Camunda Modeler Plugins
 
-1. <https://github.com/camunda/camunda-modeler-plugins> ⭐ 184 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-28
+1. <https://github.com/camunda/camunda-modeler-plugins> ⭐ 183 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-28
 2. <https://github.com/umb/camunda-modeler-property-info-plugin> ⭐ 66 | 🐛 4 | 🌐 JavaScript | 📅 2023-11-03
 3. <https://github.com/StephenOTT/camunda-vertx-springboot> ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-13
 
@@ -190,4 +190,4 @@ Various Training materials, Videos, links, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
