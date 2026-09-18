@@ -15,11 +15,11 @@
             "id": 3623050,
             "language": "Ruby",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-17T19:45:42Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-18T18:59:49Z",
+            "open_issues": 47,
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22217,
+            "stars": 22218,
             "topics": [
               "cask",
               "hacktoberfest",
@@ -44,7 +44,7 @@
             "open_issues": 5,
             "owner": "bpmn-io",
             "repo": "bpmn-to-image",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "bpmn",
               "bpmn-to-image"
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:45:47.103Z",
+    "last_updated": "2026-09-18T19:04:24.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "a curated list of awesome Camunda BPM projects, libraries, tools, documentations, forum posts, etc.",
