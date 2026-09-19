@@ -17,7 +17,7 @@ A curated list of awesome Camunda BPM projects, libraries, tools, documentation,
 
 # Tools and libraries
 
-1. [MacOS Homebrew Cask for Camunda Modeler](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/camunda-modeler.rb) ⭐ 22,218 | 🐛 47 | 🌐 Ruby | 📅 2026-09-18 - `brew install camunda-modeler`
+1. [MacOS Homebrew Cask for Camunda Modeler](https://github.com/Homebrew/homebrew-cask/blob/master/Casks/camunda-modeler.rb) ⭐ 22,218 | 🐛 28 | 🌐 Ruby | 📅 2026-09-19 - `brew install camunda-modeler`
 2. [BPMN to PNG/PDF](https://github.com/bpmn-io/bpmn-to-image) ⭐ 77 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-10 - Convert BPMN 2.0 diagrams to PDF documents or PNG files.
 3. [vPAV](https://github.com/viadee/vPAV) ⚠️ Archived - A tool that checks Camunda projects for consistency and discovers errors in process-driven applications, inconsistencies of a given BPMN model in the classpath and the sourcecode of an underlying java project, such as a delegate reference to a non-existing java class or a non-existing Spring bean.
 4. [DMN Check](https://github.com/red6/dmn-check) ⭐ 44 | 🐛 14 | 🌐 Java | 📅 2026-09-14 - A Maven plugin which performs various static analyses on Decision Model Notation (DMN) files to detect bugs.
@@ -75,7 +75,7 @@ A curated list of awesome Camunda BPM projects, libraries, tools, documentation,
 # Camunda Modeler Plugins
 
 1. <https://github.com/camunda/camunda-modeler-plugins> ⭐ 183 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-28
-2. <https://github.com/umb/camunda-modeler-property-info-plugin> ⭐ 66 | 🐛 4 | 🌐 JavaScript | 📅 2023-11-03
+2. <https://github.com/umb/camunda-modeler-property-info-plugin> ⭐ 67 | 🐛 4 | 🌐 JavaScript | 📅 2023-11-03
 3. <https://github.com/StephenOTT/camunda-vertx-springboot> ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-13
 
 # BPM Engine Plugins
@@ -190,4 +190,4 @@ Various Training materials, Videos, links, etc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

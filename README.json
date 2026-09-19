@@ -15,8 +15,8 @@
             "id": 3623050,
             "language": "Ruby",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-18T18:59:49Z",
-            "open_issues": 47,
+            "last_commit": "2026-09-19T18:36:50Z",
+            "open_issues": 28,
             "owner": "Homebrew",
             "repo": "homebrew-cask",
             "stars": 22218,
@@ -277,7 +277,7 @@
             "open_issues": 0,
             "owner": "camunda",
             "repo": "camunda-bpm-platform",
-            "stars": 4268,
+            "stars": 4269,
             "topics": [
               "bpm",
               "bpmn",
@@ -501,7 +501,7 @@
             "open_issues": 4,
             "owner": "mesoneer-ag",
             "repo": "camunda-modeler-property-info-plugin",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "bpmn",
               "camunda",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:04:24.346Z",
+    "last_updated": "2026-09-19T18:38:57.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "a curated list of awesome Camunda BPM projects, libraries, tools, documentations, forum posts, etc.",
