@@ -15,11 +15,11 @@
             "id": 3623050,
             "language": "Ruby",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-23T19:42:08Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-24T20:01:24Z",
+            "open_issues": 67,
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22232,
+            "stars": 22231,
             "topics": [
               "cask",
               "hacktoberfest",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:43:06.258Z",
+    "last_updated": "2026-09-24T20:01:31.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "a curated list of awesome Camunda BPM projects, libraries, tools, documentations, forum posts, etc.",
