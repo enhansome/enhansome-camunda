@@ -15,11 +15,11 @@
             "id": 3623050,
             "language": "Ruby",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-01T20:36:39Z",
+            "last_commit": "2026-10-02T20:49:09Z",
             "open_issues": 34,
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22242,
+            "stars": 22244,
             "topics": [
               "cask",
               "hacktoberfest",
@@ -44,7 +44,7 @@
             "open_issues": 5,
             "owner": "bpmn-io",
             "repo": "bpmn-to-image",
-            "stars": 77,
+            "stars": 78,
             "topics": [
               "bpmn",
               "bpmn-to-image"
@@ -92,11 +92,11 @@
             "id": 106817657,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T08:53:35Z",
+            "last_commit": "2026-10-02T01:07:41Z",
             "open_issues": 28,
             "owner": "red6",
             "repo": "dmn-check",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "camunda",
               "camunda-modeler-plugin",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:06:09.181Z",
+    "last_updated": "2026-10-02T20:49:09.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "a curated list of awesome Camunda BPM projects, libraries, tools, documentations, forum posts, etc.",
