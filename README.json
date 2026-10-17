@@ -15,8 +15,8 @@
             "id": 3623050,
             "language": "Ruby",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-16T19:34:23Z",
-            "open_issues": 57,
+            "last_commit": "2026-10-17T18:30:45Z",
+            "open_issues": 20,
             "owner": "Homebrew",
             "repo": "homebrew-cask",
             "stars": 22257,
@@ -40,8 +40,8 @@
             "id": 130327374,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-10T06:44:13Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-17T01:20:17Z",
+            "open_issues": 6,
             "owner": "bpmn-io",
             "repo": "bpmn-to-image",
             "stars": 80,
@@ -277,7 +277,7 @@
             "open_issues": 0,
             "owner": "camunda",
             "repo": "camunda-bpm-platform",
-            "stars": 4266,
+            "stars": 4267,
             "topics": [
               "bpm",
               "bpmn",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:36:03.371Z",
+    "last_updated": "2026-10-17T18:35:11.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "a curated list of awesome Camunda BPM projects, libraries, tools, documentations, forum posts, etc.",
