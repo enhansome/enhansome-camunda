@@ -15,11 +15,11 @@
             "id": 3623050,
             "language": "Ruby",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-27T00:14:23Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-27T23:04:49Z",
+            "open_issues": 31,
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22323,
+            "stars": 22324,
             "topics": [
               "cask",
               "hacktoberfest",
@@ -491,7 +491,7 @@
           "description": "mesoneer-ag/camunda-modeler-property-info-plugin",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "This plugin serves a better overview which properties are set per shape.",
             "homepage": null,
             "id": 96254920,
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:40:24.295Z",
+    "last_updated": "2026-11-28T00:06:53.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "a curated list of awesome Camunda BPM projects, libraries, tools, documentations, forum posts, etc.",
